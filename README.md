@@ -46,3 +46,6 @@ All transactions are logged on the blockchain, providing full transparency.
 *Contract Address:* https://celo-sepolia.blockscout.com/address/0xd5AB94fC734D1Dacf9E9D59C6Ed1c07BD0D3c2e1  
 
 ---
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 143305" src="https://github.com/user-attachments/assets/82de59c8-c089-43ec-8097-74f08317a9be" />
+
