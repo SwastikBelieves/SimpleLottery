@@ -46,11 +46,3 @@ All transactions are logged on the blockchain, providing full transparency.
 *Contract Address:* https://celo-sepolia.blockscout.com/address/0xd5AB94fC734D1Dacf9E9D59C6Ed1c07BD0D3c2e1  
 
 ---
-
-## 🧠 Code Overview
-
-Below is the Solidity source code used for this project.  
-You can copy-paste this into [Remix IDE](https://remix.ethereum.org), deploy it, and start experimenting!
-
-```solidity
-//paste your code
